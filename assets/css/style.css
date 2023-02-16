@@ -37,8 +37,6 @@ header a {
 body {
   background-color: #000;
 }
-
-
 header::after {
   content: "";
   width: 100%;
@@ -330,7 +328,7 @@ form button.btn-primary:hover {
 }
 
 .title .title-blue {
-  color: #2632eb;
+  color: #fff;
 }
 
 .title .title-primary {
@@ -350,7 +348,7 @@ form button.btn-primary:hover {
 }
 
 .services h5 {
-  color: #2632eb;
+  color: #fff;
   border-bottom: 2px solid #e7e7e7;
   padding-bottom: 5px;
   margin-bottom: 10px;
@@ -361,7 +359,7 @@ form button.btn-primary:hover {
 ------------------------------------*/
 .featured {
   padding: 80px 0;
-  background-color: #00000052;
+  background-color: #000;
 }
 
 .featured p {
@@ -375,7 +373,7 @@ form button.btn-primary:hover {
 
 .featured .media h5 {
   text-transform: uppercase;
-  color: #2632eb;
+  color: #26264b;
 }
 
 .featured .btn {
@@ -399,7 +397,7 @@ form button.btn-primary:hover {
   bottom: 0;
   left: 0;
   padding: 25px 25px 0 0;
-  background-color: #fff;
+  background-color: #000;
 }
 
 /*-----------------------------------
@@ -443,7 +441,7 @@ form button.btn-primary:hover {
 }
 
 .post-content h3 a {
-  color: #2632eb;
+  color: #26264b;
   font-weight: 600;
 }
 
@@ -457,7 +455,7 @@ form button.btn-primary:hover {
 }
 
 .post-content a:hover {
-  color: #2632eb;
+  color: #26264b;
 }
 
 .post-content .post-btn {
@@ -482,7 +480,7 @@ form button.btn-primary:hover {
 ------------------------------------*/
 .trust {
   padding: 75px 0;
-  background-color: #2632eb;
+  background-color: #26264b;
   color: #ddd;
   position: relative;
 }
@@ -577,7 +575,7 @@ form button.btn-primary:hover {
   padding: 65px 0 40px;
   margin-top: 23px;
   color: #fff;
-  background: #2632eb;
+  background: #26264b;
   border: 0px solid #fff;
   position: relative;
   overflow: hidden;
@@ -639,7 +637,7 @@ form button.btn-primary:hover {
 }
 
 .single-pricing:hover span {
-  background-color: #2632eb;
+  background-color: #26264b;
 }
 
 .single-pricing:hover .desc {
@@ -667,7 +665,7 @@ form button.btn-primary:hover {
 .testimonials {
   padding: 95px 0 85px;
   color: #fff;
-  border-bottom: 1px solid #2632eb;
+  border-bottom: 1px solid #26264b;
 }
 
 .testimonials .test-img {
@@ -686,7 +684,7 @@ form button.btn-primary:hover {
 }
 
 .testimonials h5 {
-  color: #2632eb;
+  color: #26264b;
   margin-top: 15px;
 }
 
@@ -710,7 +708,7 @@ form button.btn-primary:hover {
   width: 9px;
   height: 9px;
   border-radius: 50%;
-  background-color: #2632eb;
+  background-color: #26264b;
   margin-bottom: 0;
   transition: all 0.2s ease-in-out;
 }
@@ -751,7 +749,7 @@ form button.btn-primary:hover {
     1 - Footer
 ------------------------------------*/
 footer {
-  background: url(../images/footer-bg.png) center center/cover no-repeat #2632eb;
+  background: url(../images/footer-bg.png) center center/cover no-repeat #26264b;
 }
 
 /*-----------------------------------
@@ -853,7 +851,7 @@ span {
 
 .tags-widget a:hover {
   text-decoration: none;
-  color: #2632eb;
+  color: #26264b;
   background-color: #2632eb;
 }
 
@@ -923,11 +921,11 @@ span {
 .foot-note {
   padding: 35px 0;
   background-color: #2632eb;
-  color: #2632eb;
+  color: #26264b;
 }
 
 .foot-note a {
-  color: #2632eb;
+  color: #26264b;
 }
 
 .foot-note a:last-child {
