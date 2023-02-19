@@ -434,6 +434,7 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem;
+  color: #26264b;
 }
 
 .lead {
@@ -667,7 +668,7 @@ pre code {
 @media (max-width: 575px) {
   
   .map {
-    max-width: 95%;
+    max-width: 120%;
   }
 }
 
@@ -5180,6 +5181,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .media-body {
   flex: 1;
+  color: #aaaaaa;
 }
 
 .list-group {
