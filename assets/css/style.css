@@ -756,7 +756,7 @@ footer {
     1 - Footer Widgets
 ------------------------------------*/
 .footer-widgets {
-  padding: 100px 0;
+  padding: 20px 0;
 }
 
 .footer-widgets .col-md-6 .single-widget:not(:first-child) .widget-tiltle {
@@ -920,13 +920,11 @@ span {
 ------------------------------------*/
 .foot-note {
   padding: 35px 0;
-  background-color: #000000c4;
-  color: #26264b;
+  background-color: #000000;
+  color: #b5a4e971;
 }
 
-.foot-note a {
-  color: #26264b;
-}
+
 
 .foot-note a:last-child {
   margin-left: 30px;
@@ -934,4 +932,8 @@ span {
 
 .foot-note a.fh5-link {
   margin-left: 0;
+}
+
+.map {
+  color: #2632eb;
 }
