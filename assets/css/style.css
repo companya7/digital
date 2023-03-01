@@ -934,6 +934,10 @@ span {
   margin-left: 0;
 }
 
+#map {
+  padding: 1px 1px 1px 15px;
+}
 .map {
   color: #2632eb;
+
 }
