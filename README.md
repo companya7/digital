@@ -1,2 +1,1 @@
-# 
-este projeto está em teste
+# este projeto está em teste
